@@ -1,10 +1,10 @@
 <h2> Hi, I'm Hernán Vázquez!</h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>FullStack Developer <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>FullStack Developer <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br> 
 </em></p>
 
 
-[![Linkedin: Hernan Hazquez](https://img.shields.io/badge/-Hernan Hazquez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hernan-vazquez-059795280/)]([https://www.linkedin.com/in/thaianebraga/](https://www.linkedin.com/in/hernan-vazquez-059795280/))
+[![Linkedin: herva](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/) ](https://www.linkedin.com/in/thaianebraga/)
 
 
 
