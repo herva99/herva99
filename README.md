@@ -21,3 +21,4 @@ const Hernan = {
 ---
 
 ⭐️ From [@herva99](https://www.github.com/herva99)
+⭐️ hernanvazquez722@gmail.com
