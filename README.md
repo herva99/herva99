@@ -12,7 +12,7 @@
 ```javascript
 const Hernan = {
   code: [Javascript, HTML, CSS],
-  tools: [React, Redux, Node, Styled-Components]
+  tools: [React, Redux, Node, SQL]
 }
 ```
 
