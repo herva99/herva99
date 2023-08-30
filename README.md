@@ -4,14 +4,14 @@
 </em></p>
 
 
-[![Linkedin: herva](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/) ](https://www.linkedin.com/in/thaianebraga/)
+[![Linkedin: herva](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/) ]([https://www.linkedin.com/in/thaianebraga/](https://www.linkedin.com/in/hernan-vazquez-059795280/))
 
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const thai = {
+const Hernan = {
   code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
