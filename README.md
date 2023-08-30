@@ -4,7 +4,7 @@
 </em></p>
 
 
-[![Linkedin: herva](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hernan-vazquez-059795280/) ](https://www.linkedin.com/in/hernan-vazquez-059795280/)
+[![Linkedin: herva](https://img.shields.io/badge/-herva99-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hernan-vazquez-059795280/) ](https://www.linkedin.com/in/hernan-vazquez-059795280/)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
