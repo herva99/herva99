@@ -20,4 +20,4 @@ const Hernan = {
 
 ---
 
-⭐️ From [@Thaiane](https://github.com/Thaiane)
+⭐️ From [@herva99](https://www.github.com/herva99)
