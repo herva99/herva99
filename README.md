@@ -16,7 +16,9 @@ const Hernan = {
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I'm Hernán, a web development enthusiast with a passion for turning concepts into digital realities.
+
+My focus is on frontend and backend development, which allows me to bring ideas to life from the design phase to functional implementation. I love collaborating on creative teams and tackling exciting technology challenges.</b> :)</em>
 
 ---
 
