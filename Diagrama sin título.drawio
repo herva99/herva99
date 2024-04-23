@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-23T18:21:32.466Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="wFZUhoD3dpVxM-noCrTK" version="24.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-23T18:22:14.560Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="fNTdzMD4T9Bj9ZMQKUCX" version="24.2.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="880" dy="1637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -101,7 +101,7 @@
         <mxCell id="VbyRztVG5FkuEBrkz8MD-26" value="Appointment:&lt;div&gt;1) Crear turno(Create)&lt;/div&gt;&lt;div&gt;2) obtener turnos(FindAll)&lt;/div&gt;&lt;div&gt;3) obtener turno por ID(findByPk(id)&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;4) Cancelar turno(Destroy)&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5) Actualizar turno(Update)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="220" y="620" width="160" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="VbyRztVG5FkuEBrkz8MD-28" value="Doctor:&lt;div&gt;1) Crear Doctor(Create)&lt;/div&gt;&lt;div&gt;2) obtener Doctores(FindAll)&lt;/div&gt;&lt;div&gt;3) obtener Doctor por ID(findByPk(id)&lt;/div&gt;&lt;div&gt;4) Login Doctor(findone)&lt;/div&gt;&lt;div&gt;5) Eliminar Doctor(Destroy)&lt;/div&gt;&lt;div&gt;6) Editar doctor(Update)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="VbyRztVG5FkuEBrkz8MD-28" value="Doctor:&lt;div&gt;1) Crear Doctor(Create)&lt;/div&gt;&lt;div&gt;2) obtener Doctores(FindAll)&lt;/div&gt;&lt;div&gt;3) obtener Doctor por ID(findByPk(id)&lt;/div&gt;&lt;div&gt;4) Eliminar Doctor(Destroy)&lt;/div&gt;&lt;div&gt;5) Editar doctor(Update)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="30" y="620" width="160" height="130" as="geometry" />
         </mxCell>
         <mxCell id="VbyRztVG5FkuEBrkz8MD-30" value="Speciality:&lt;div&gt;1) Crear Speciality(Create)&lt;/div&gt;&lt;div&gt;2) obtener Speciality(FindAll)&lt;/div&gt;&lt;div&gt;3) obtener Speciality por ID(findByPk(id)&lt;/div&gt;&lt;div&gt;4) Eliminar Speciality(Destroy)&lt;/div&gt;&lt;div&gt;5) Editar Speciality(Update)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
